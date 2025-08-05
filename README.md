@@ -1,1 +1,1 @@
-https://github.com/rrtrtrr/ono
+https://github.com/rrtrtrr/ono-tebe-nado-fd
